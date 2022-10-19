@@ -62,7 +62,7 @@ erik_hometown = users["Erik"]["home_town"]
 erik_lotto = users["Erik"]["lottery_numbers"]
 
 # 4. Get the species of Avril's pet Monty
-monty_species = users["Avril"]["pets"][0]["name"]
+monty_species = users["Avril"]["pets"][0]["species"]
 
 # 5. Get the smallest of Erik's lottery numbers
 erik_lotto.sort()
